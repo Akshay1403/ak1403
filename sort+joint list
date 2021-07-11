@@ -1,0 +1,10 @@
+thislist = [100, 20, 45, 842, 343]
+thislist.sort()
+print(thislist)
+
+
+list1 = ["a", "b", "c"]
+list2 = [1, 2, 3]
+
+list3 = list1 + list2
+print(list3)
