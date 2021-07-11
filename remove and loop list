@@ -1,0 +1,15 @@
+thislist = ["ak", "bk", "c"]
+thislist.remove("bk")
+print(thislist)
+
+thislist = ["a", "b", "c"]
+thislist.pop(2)
+print(thislist)
+
+thislist = ["a", "b", "c"]
+for x in thislist:
+  print(x)
+
+thislist = ["A", "B", "C"]
+for i in range(len(thislist)):
+  print(thislist[i])
