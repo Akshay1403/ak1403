@@ -1,0 +1,8 @@
+thistuple = ("a", "b", "c")
+print(thistuple[1])
+
+thistuple = ("a", "b", "c")
+print(thistuple[-1])
+
+thistuple = ("A", "B", "V", "D", "DD", "WW", "TT")
+print(thistuple[2:5])
