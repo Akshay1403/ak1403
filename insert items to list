@@ -1,0 +1,7 @@
+thislist = ["ak", "bk", "ck"]
+thislist.append("dk")
+print(thislist)
+
+thislist = ["ak", "bk", "ck"]
+thislist.insert(1, "dk")
+print(thislist)
