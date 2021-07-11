@@ -1,0 +1,6 @@
+thisdict = {
+  "name": "akshay",
+  "rollno": "1",
+  "year": 4
+}
+print(thisdict)
